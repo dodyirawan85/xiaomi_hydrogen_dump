@@ -1,0 +1,14 @@
+# hydrogen-user 7.0 NRD90M V10.2.2.0.NBCMIXM release-keys
+- manufacturer: xiaomi
+- platform: msm8952
+- codename: hydrogen
+- flavor: hydrogen-user
+- release: 7.0
+- id: NRD90M
+- incremental: V10.2.2.0.NBCMIXM
+- tags: release-keys
+- fingerprint: Xiaomi/hydrogen/hydrogen:7.0/NRD90M/V10.2.2.0.NBCMIXM:user/release-keys
+- is_ab: false
+- brand: Xiaomi
+- branch: hydrogen-user-7.0-NRD90M-V10.2.2.0.NBCMIXM-release-keys
+- repo: xiaomi_hydrogen_dump
